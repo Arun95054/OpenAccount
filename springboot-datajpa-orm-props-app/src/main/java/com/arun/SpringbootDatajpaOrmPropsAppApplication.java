@@ -36,7 +36,7 @@ public class SpringbootDatajpaOrmPropsAppApplication {
 		{
 			System.out.println("Record not saved");
 		}
-		
+		System.out.println("suceessfully completed");
 	}
 
 }
